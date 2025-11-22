@@ -501,7 +501,7 @@ export class MakeMDPluginSettingsTab extends PluginSettingTab {
     });
 
     if (this.plugin.superstate.settings.basics) {
-      containerEl.createEl("h1", { text: "Basics Settings" });
+      containerEl.createEl("h1", { text: sectionKeys["basicsSettings"] || "Basics Settings" });
     const basicsSettings = new MakeBasicsSettingsTab(this.app, this.plugin.basics);
     basicsSettings.display(containerEl);
     }

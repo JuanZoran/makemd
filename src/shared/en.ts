@@ -976,21 +976,21 @@ export const en = {
     "noExistingValues": "No Existing Values"
   },
   "settings": {
-    "importUrls": "Import Urls",
-    "exportUrls": "Export Urls",
-    "removeImage": "Remove Image",
-    "color1": "Color1",
-    "dropColorPaletteHereToImport": "Drop Color Palette Here To Import",
-    "nameOfYourSystem": "Name Of Your System",
-    "manageGlobalTemplates": "Manage Global Templates",
-    "stickerPack": "Sticker Pack",
-    "other": "Other",
-    "dropLanguagePackHereToImport": "Drop Language Pack Here To Import",
-    "flow": "Flow",
-    "untitled": "Untitled",
-    "tags": "Tags",
-    "vault": "Vault",
-    "title": "Settings",
+    "importUrls": "导入网址",
+    "exportUrls": "导出网址",
+    "removeImage": "移除图片",
+    "color1": "颜色1",
+    "dropColorPaletteHereToImport": "将调色板拖放到此处导入",
+    "nameOfYourSystem": "系统名称",
+    "manageGlobalTemplates": "管理全局模板",
+    "stickerPack": "贴纸包",
+    "other": "其他",
+    "dropLanguagePackHereToImport": "将语言包拖放到此处导入",
+    "flow": "流",
+    "untitled": "未命名",
+    "tags": "标签",
+    "vault": "仓库",
+    "title": "设置",
     "tooltips": {
       "deletePalette": "Delete palette",
       "resetToDefault": "Reset to default",
@@ -1032,59 +1032,60 @@ export const en = {
       "toggleDonutChart": "Toggle Donut Chart"
     },
     "onboarding": {
-      "welcome": "Welcome to Make.md",
-      "welcomeDesc": "Welcome to Make.md! Let's configure your essential settings to get you started.",
-      "walkthrough": "We'll walk through the most important options to customize your experience.",
-      "coreFeatures": "Core Features",
-      "enableNavigator": "Enable Navigator (sidebar file browser)",
-      "enableNavigatorDesc": "Show the enhanced file navigator in the sidebar",
-      "enableSpaceViews": "Enable Space Views",
-      "enableSpaceViewsDesc": "Create custom views and organize content in spaces",
-      "enableContexts": "Enable Contexts & Properties",
-      "enableContextsDesc": "Add structured data and metadata to your notes",
-      "interfacePreferences": "Interface Preferences",
-      "showBanners": "Show Note Banners",
-      "showBannersDesc": "Display banner images at the top of notes",
-      "showFileIcons": "Show File Icons",
-      "showFileIconsDesc": "Display custom icons next to files and folders",
-      "systemName": "System Name",
-      "systemNameDesc": "Customize the name of your workspace",
-      "previous": "Previous",
-      "next": "Next",
-      "skipTour": "Skip Tour",
-      "getStarted": "Get Started"
+      "welcome": "欢迎使用 Make.md",
+      "welcomeDesc": "欢迎使用 Make.md！让我们配置您的基本设置以开始使用。",
+      "walkthrough": "我们将浏览最重要的选项以自定义您的体验。",
+      "coreFeatures": "核心功能",
+      "enableNavigator": "启用导航器（侧边栏文件浏览器）",
+      "enableNavigatorDesc": "在侧边栏中显示增强的文件导航器",
+      "enableSpaceViews": "启用空间视图",
+      "enableSpaceViewsDesc": "创建自定义视图并在空间中组织内容",
+      "enableContexts": "启用上下文和属性",
+      "enableContextsDesc": "向笔记添加结构化数据和元数据",
+      "interfacePreferences": "界面偏好",
+      "showBanners": "显示笔记横幅",
+      "showBannersDesc": "在笔记顶部显示横幅图片",
+      "showFileIcons": "显示文件图标",
+      "showFileIconsDesc": "在文件和文件夹旁边显示自定义图标",
+      "systemName": "系统名称",
+      "systemNameDesc": "自定义您的工作区名称",
+      "previous": "上一步",
+      "next": "下一步",
+      "skipTour": "跳过教程",
+      "getStarted": "开始使用"
     },
     "categories": {
-      "core": "Core",
-      "appearance": "Appearance",
-      "system": "System"
+      "core": "核心",
+      "appearance": "外观",
+      "system": "系统"
     },
     "sections": {
-      "general": "General",
-      "navigator": "Navigator",
-      "appearance": "Appearance",
-      "coverImage": "Cover Image",
-      "interaction": "Preferences",
-      "context": "Context",
-      "label": "Labels",
-      "tags": "Tags",
-      "space": "Spaces",
-      "performance": "Performance",
-      "advanced": "Advanced",
-      "folderNote": "Folder Note",
-      "notes": "Notes",
-      "assets": "Assets",
-      "language": "Language",
-      "colors": "Colors",
-      "stickers": "Stickers",
-      "hidden": "Hidden Files"
+      "general": "常规",
+      "navigator": "导航器",
+      "appearance": "外观",
+      "coverImage": "封面图片",
+      "interaction": "偏好设置",
+      "context": "上下文",
+      "label": "标签",
+      "tags": "标签",
+      "space": "空间",
+      "performance": "性能",
+      "advanced": "高级",
+      "folderNote": "文件夹笔记",
+      "notes": "笔记",
+      "assets": "资源",
+      "language": "语言",
+      "colors": "颜色",
+      "stickers": "贴纸",
+      "hidden": "隐藏文件",
+      "basicsSettings": "基础设置"
     },
     "cacheIndex": {
-      "name": "Cache Search Index",
-      "desc": "Cache the index for faster search results"
+      "name": "缓存搜索索引",
+      "desc": "缓存索引以加快搜索结果"
     },
-    "layoutVertical": "Vertical",
-    "layoutHorizontal": "Horizontal",
+    "layoutVertical": "垂直",
+    "layoutHorizontal": "水平",
     "sectionGeneral": "General",
     "sectionSidebar": "Spaces",
     "sectionEditor": "Maker Mode",
@@ -1102,329 +1103,329 @@ export const en = {
     "sectionFlowMenu": "Flow Menu",
     "sectionFlowStyler": "Flow Styler",
     "experimental": {
-      "name": "Experimental",
-      "desc": "Experimental features that are subject to change and may not be optimized for performance"
+      "name": "实验性",
+      "desc": "实验性功能可能会发生变化，可能未针对性能进行优化"
     },
     "noteThumbnails": {
-      "name": "Note Thumbnails",
-      "desc": "Create thumbnails for notes"
+      "name": "笔记缩略图",
+      "desc": "为笔记创建缩略图"
     },
     "imageThumbnails": {
-      "name": "Image Thumbnails",
-      "desc": "Create thumbnails for images to speed up performance"
+      "name": "图片缩略图",
+      "desc": "为图片创建缩略图以提升性能"
     },
     "hiddenExtensions": {
-      "name": "Hidden Extensions",
-      "desc": "File extensions and names to hide from the navigator"
+      "name": "隐藏扩展名",
+      "desc": "要在导航器中隐藏的文件扩展名和名称"
     },
     "minimalThemeFix": {
-      "name": "Minimal Theme Fix",
-      "description": "Apply fixes for the popular theme Minimal"
+      "name": "Minimal 主题修复",
+      "description": "应用流行的 Minimal 主题修复"
     },
     "inlineStickerMenu": {
-      "name": "Inline Stickers",
-      "desc": "Add inline stickers by typing :"
+      "name": "内联贴纸",
+      "desc": "通过输入 : 添加内联贴纸"
     },
     "openSpacesOnLaunch": {
-      "name": "Open Navigator as Default Tab",
-      "desc": "Open the Navigator tab when Obsidian launches"
+      "name": "启动时打开导航器作为默认标签页",
+      "desc": "在 Obsidian 启动时打开导航器标签页"
     },
     "overrideNativeMenu": {
-      "name": "Use Obsidian Context Menu",
-      "desc": "Show the Obsidian context menu instead of Make.md"
+      "name": "使用 Obsidian 上下文菜单",
+      "desc": "显示 Obsidian 上下文菜单而不是 Make.md"
     },
     "editStickerInSidebar": {
-      "name": "Edit Stickers in Sidebar",
-      "desc": "Edit stickers directly in the sidebar"
+      "name": "在侧边栏中编辑贴纸",
+      "desc": "直接在侧边栏中编辑贴纸"
     },
     "notesPreview": {
-      "name": "Notes Preview",
-      "desc": "Show a preview of notes, may cause performance issues"
+      "name": "笔记预览",
+      "desc": "显示笔记预览，可能会导致性能问题"
     },
     "spacesRightSplit": {
-      "name": "Navigator on Right Side",
-      "desc": "Open the Navigator in the right panel"
+      "name": "导航器在右侧",
+      "desc": "在右侧面板中打开导航器"
     },
     "defaultSpaceTemplate": {
-      "name": "Default Space Template",
-      "desc": "Select the default template for new spaces"
+      "name": "默认空间模板",
+      "desc": "为新空间选择默认模板"
     },
     "datePickerTime": {
-      "name": "Date Picker Time",
-      "desc": "Select time by default in the date picker"
+      "name": "日期选择器时间",
+      "desc": "在日期选择器中默认选择时间"
     },
     "defaultDateFormat": {
-      "name": "Default Date Format",
-      "desc": "Set the default date format, example: yyyy-MM-dd (see https://date-fns.org/v2.30.0/docs/format)"
+      "name": "默认日期格式",
+      "desc": "设置默认日期格式，例如：yyyy-MM-dd（参见 https://date-fns.org/v2.30.0/docs/format）"
     },
     "defaultTimeFormat": {
-      "name": "Default Time Format",
-      "desc": "Set the default time format, example: h:mm a (see https://date-fns.org/v2.30.0/docs/format)"
+      "name": "默认时间格式",
+      "desc": "设置默认时间格式，例如：h:mm a（参见 https://date-fns.org/v2.30.0/docs/format）"
     },
     "autoAddContextsToSubtags": {
-      "name": "Apply Properties to Subtags",
-      "desc": "Automatically apply context properties to subtags"
+      "name": "将属性应用于子标签",
+      "desc": "自动将上下文属性应用于子标签"
     },
     "newNotePlaceholder": {
-      "name": "New Note Placeholder",
-      "desc": "Default name for new notes, applies to the Navigator buttons and the New Note command"
+      "name": "新笔记占位符",
+      "desc": "新笔记的默认名称，适用于导航器按钮和新建笔记命令"
     },
     "folderIndentationLines": {
-      "name": "Show Folder Indentation Lines",
-      "desc": "Turn on to show a line on the left of folders to indicate indentation"
+      "name": "显示文件夹缩进线",
+      "desc": "打开后在文件夹左侧显示一条线以指示缩进"
     },
     "folderNoteLocation": {
-      "name": "Folder Note Location Inside Folder",
-      "desc": "Turn on to have folder notes inside the folder, turn off to have it outside"
+      "name": "文件夹笔记位置在文件夹内",
+      "desc": "打开后文件夹笔记位于文件夹内，关闭后位于文件夹外"
     },
     "folderViewDefault": {
-      "name": "Show Folder Note by Default",
-      "desc": "Show the folder note by default when opening a folder"
+      "name": "默认显示文件夹笔记",
+      "desc": "打开文件夹时默认显示文件夹笔记"
     },
     "internalLinkFlowEditor": {
-      "name": "Show Toggles to Open Flow Editor on Links",
-      "desc": "Turn on to toggle Flow Blocks directly in inline links"
+      "name": "在链接上显示切换按钮以打开流编辑器",
+      "desc": "打开后可在内联链接中直接切换流块"
     },
     "internalLinkSticker": {
-      "name": "Show Stickers on Links",
-      "desc": "Turn on to toggle stickers shown directly by beside internal links"
+      "name": "在链接上显示贴纸",
+      "desc": "打开后可在内部链接旁边直接切换显示的贴纸"
     },
     "saveAllContextToFrontmatter": {
-      "name": "Sync Context Fields to Frontmatter",
-      "desc": "Turn on to automatically save all context fields to Frontmatter fields, not just existing Frontmatter fields."
+      "name": "将上下文字段同步到前置元数据",
+      "desc": "打开后自动将所有上下文字段保存到前置元数据字段，而不仅仅是现有的前置元数据字段。"
     },
     "syncFormulaToFrontmatter": {
-      "name": "Sync Formula Fields to Frontmatter",
-      "desc": "Turn on to save calculated formula values to Frontmatter fields."
+      "name": "将公式字段同步到前置元数据",
+      "desc": "打开后将计算的公式值保存到前置元数据字段。"
     },
     "spaceSubFolder": {
-      "name": "Space Folder Name",
-      "desc": "Name of the folder for spaces"
+      "name": "空间文件夹名称",
+      "desc": "空间的文件夹名称"
     },
     "basics": {
-      "name": "Make.md Basics",
-      "desc": "Enable features from Make.md Basics including styler and flow blocks"
+      "name": "Make.md 基础",
+      "desc": "启用 Make.md 基础功能，包括样式器和流块"
     },
     "spacesFolder": {
-      "name": "Tag Space Folder",
-      "desc": "Name of the folder for tag spaces"
+      "name": "标签空间文件夹",
+      "desc": "标签空间的文件夹名称"
     },
     "inlineContext": {
-      "name": "Notes Header",
-      "desc": "Show a header to display labels and properties"
+      "name": "笔记标题",
+      "desc": "显示标题以显示标签和属性"
     },
     "banners": {
-      "name": "Cover Image",
-      "desc": "Show a cover image for notes and spaces"
+      "name": "封面图片",
+      "desc": "为笔记和空间显示封面图片"
     },
     "inlineContextProperties": {
-      "name": "Show Context Properties in Header",
-      "desc": "Show the properties in the header for notes and spaces"
+      "name": "在标题中显示上下文属性",
+      "desc": "在笔记和空间的标题中显示属性"
     },
     "inlineContextExpanded": {
-      "name": "Auto Expand Context Properties",
-      "desc": "Expand the inline context sections when opening a note"
+      "name": "自动展开上下文属性",
+      "desc": "打开笔记时展开内联上下文部分"
     },
     "inlineContextNameLayout": {
-      "name": "Title and Sticker Layout",
-      "desc": "Layout for inline title and sticker in Inline Context"
+      "name": "标题和贴纸布局",
+      "desc": "内联上下文中内联标题和贴纸的布局"
     },
     "hideFrontmatter": {
-      "name": "Hide Context Properties",
-      "desc": "Hide properties you have added in context from the Obsidian properties panel"
+      "name": "隐藏上下文属性",
+      "desc": "在 Obsidian 属性面板中隐藏您在上下文中添加的属性"
     },
     "autoOpenFileContext": {
-      "name": "Auto Open Explorer",
-      "desc": "Automatically open explorer panel in the right panel"
+      "name": "自动打开资源管理器",
+      "desc": "在右侧面板中自动打开资源管理器面板"
     },
     "enableFolderNote": {
-      "name": "Enable Folder Note",
-      "desc": "Access the folder note in the folder page and hide the folder note from spaces"
+      "name": "启用文件夹笔记",
+      "desc": "在文件夹页面中访问文件夹笔记，并从空间中隐藏文件夹笔记"
     },
     "folderNoteName": {
-      "name": "Folder Note Name",
-      "desc": "Name of the folder note, keep blank to use the same name as the folder"
+      "name": "文件夹笔记名称",
+      "desc": "文件夹笔记的名称，保持空白以使用与文件夹相同的名称"
     },
     "expandFolderOnClick": {
-      "name": "Auto Expand Folder",
-      "desc": "Auto expand folders on click"
+      "name": "自动展开文件夹",
+      "desc": "点击时自动展开文件夹"
     },
     "filePreviewOnHover": {
-      "name": "Preview on Hover",
-      "desc": "Preview on Hover while holding Control/Command key"
+      "name": "悬停预览",
+      "desc": "按住 Control/Command 键时悬停预览"
     },
     "revealActiveFile": {
-      "name": "Reveal Active File",
-      "desc": "Automatically reveal the active file in Navigator"
+      "name": "显示活动文件",
+      "desc": "在导航器中自动显示活动文件"
     },
     "contextEnabled": {
-      "name": "Contexts",
-      "desc": "Contexts allows you to have full control over the metadata of your files"
+      "name": "上下文",
+      "desc": "上下文允许您完全控制文件的元数据"
     },
     "navigatorEnabled": {
-      "name": "Navigator",
-      "desc": "The navigator lets you create and organize your spaces"
+      "name": "导航器",
+      "desc": "导航器允许您创建和组织空间"
     },
     "spacesStickers": {
-      "name": "Stickers",
-      "desc": "Use Emojis to make it easier to find your notes"
+      "name": "贴纸",
+      "desc": "使用表情符号让查找笔记更容易"
     },
     "spacesUseAlias": {
-      "name": "Alias",
-      "desc": "Use the alias metadata to show in Navigator"
+      "name": "别名",
+      "desc": "使用别名元数据在导航器中显示"
     },
     "spacesDisablePatch": {
-      "name": "Compatibility Mode",
-      "desc": "This will improve the compatibility of plugins while using the Navigator, however will turn off linking to spaces from breadcrumbs"
+      "name": "兼容模式",
+      "desc": "这将提高使用导航器时插件的兼容性，但会关闭从面包屑链接到空间的功能"
     },
     "deleteFileOption": {
-      "name": "Delete File Option",
-      "desc": "Select how you want files to be deleted"
+      "name": "删除文件选项",
+      "desc": "选择您希望如何删除文件"
     },
     "spacesDeleteOptions": {
-      "permanent": "Delete Permanently",
-      "trash": "Move to Obsidian Trash",
-      "system-trash": "Move to System Trash"
+      "permanent": "永久删除",
+      "trash": "移动到 Obsidian 废纸篓",
+      "system-trash": "移动到系统废纸篓"
     },
     "flowState": {
-      "name": "Flow State",
-      "desc": "Toggle the flow state"
+      "name": "流状态",
+      "desc": "切换流状态"
     },
     "showRibbon": {
-      "name": "App Ribbon",
-      "desc": "Show/hide the left menu aka. ribbon"
+      "name": "应用功能区",
+      "desc": "显示/隐藏左侧菜单（即功能区）"
     },
     "vaultSelector": {
-      "name": "Vault Selector",
-      "desc": "Show/hide the vault selector at the bottom"
+      "name": "仓库选择器",
+      "desc": "显示/隐藏底部的仓库选择器"
     },
     "spaceViewEnabled": {
-      "name": "Spaces",
-      "desc": "Customize your folders and tags with properties and views"
+      "name": "空间",
+      "desc": "使用属性和视图自定义您的文件夹和标签"
     },
     "defaultSpaces": {
-      "name": "Default Spaces",
-      "desc": "Recommended Spaces for quickly organizing your vault"
+      "name": "默认空间",
+      "desc": "用于快速组织仓库的推荐空间"
     },
     "homeSpace": {
-      "name": "Home Space",
-      "desc": "An easy-to-access space where you can add/organize your other spaces"
+      "name": "主页空间",
+      "desc": "一个易于访问的空间，您可以在其中添加/组织其他空间"
     },
     "enableDefaultSpaces": {
-      "name": "Tag Spaces",
-      "desc": "Automatically create spaces for each of your tags"
+      "name": "标签空间",
+      "desc": "为您的每个标签自动创建空间"
     },
     "readableLineWidth": {
-      "name": "Readable Line Width",
-      "desc": "Use Readable Line Width"
+      "name": "可读行宽",
+      "desc": "使用可读行宽"
     },
     "sidebarTabs": {
-      "name": "Sidebar Tabs",
-      "desc": "Show/hide other sidebar tabs"
+      "name": "侧边栏标签",
+      "desc": "显示/隐藏其他侧边栏标签"
     },
     "spacesPerformance": {
-      "name": "Navigator Scroll Performance",
-      "desc": "Turn on performance mode for Navigator, may affect scrolling appearance. Requires Restart"
+      "name": "导航器滚动性能",
+      "desc": "为导航器开启性能模式，可能会影响滚动外观。需要重启"
     },
     "indexSVG": {
-      "name": "Use SVGs as Stickers",
-      "desc": "Use any svg file in your vault as a sticker"
+      "name": "使用 SVG 作为贴纸",
+      "desc": "将仓库中的任何 svg 文件用作贴纸"
     },
     "language": {
-      "name": "Customize Interface Language",
-      "desc": "Modify any text in the interface. Changes require a reload to take effect.",
-      "loadingSettings": "Loading language settings...",
-      "exportJSON": "Export JSON",
-      "importJSON": "Import JSON",
-      "importJSONDesc": "Paste your language JSON here. Only modified values will be imported.",
-      "pasteJSONPlaceholder": "Paste your JSON here...",
-      "import": "Import",
-      "cancel": "Cancel",
-      "copied": "Copied!",
-      "resetAll": "Reset All",
-      "search": "Search",
-      "searchDesc": "Search by key or text value",
-      "showingCount": "Showing {{filtered}} of {{total}} strings",
-      "original": "Original",
-      "invalidJSON": "Invalid JSON format. Please check your input."
+      "name": "自定义界面语言",
+      "desc": "修改界面中的任何文本。更改需要重新加载才能生效。",
+      "loadingSettings": "正在加载语言设置...",
+      "exportJSON": "导出 JSON",
+      "importJSON": "导入 JSON",
+      "importJSONDesc": "在此处粘贴您的语言 JSON。只会导入修改过的值。",
+      "pasteJSONPlaceholder": "在此处粘贴您的 JSON...",
+      "import": "导入",
+      "cancel": "取消",
+      "copied": "已复制！",
+      "resetAll": "重置全部",
+      "search": "搜索",
+      "searchDesc": "按键或文本值搜索",
+      "showingCount": "显示 {{filtered}} / {{total}} 个字符串",
+      "original": "原始",
+      "invalidJSON": "无效的 JSON 格式。请检查您的输入。"
     },
     "inlineStyler": {
-      "name": "Flow Styler",
-      "desc": "Select text to add styling"
+      "name": "流样式器",
+      "desc": "选择文本以添加样式"
     },
     "inlineStylerColor": {
-      "name": "Text and Highlight Colors 🧪",
-      "desc": "Select text color and highlight color, (this may change in the future because of the limitations with HTML and Obsidian)"
+      "name": "文本和高亮颜色 🧪",
+      "desc": "选择文本颜色和高亮颜色（由于 HTML 和 Obsidian 的限制，这在未来可能会改变）"
     },
     "spaceRowHeight": {
-      "name": "Row Height",
-      "desc": "The height for each row in navigator (in pixels), default is 29"
+      "name": "行高",
+      "desc": "导航器中每行的高度（像素），默认为 29"
     },
     "mobileSpaceRowHeight": {
-      "name": "Row Height - Mobile",
-      "desc": "The height for each row in navigator for mobile (in pixels), default is 40"
+      "name": "行高 - 移动设备",
+      "desc": "移动设备导航器中每行的高度（像素），默认为 40"
     },
     "contextPagination": {
-      "name": "Table View Pagination",
-      "desc": "Number of items per page in table view"
+      "name": "表格视图分页",
+      "desc": "表格视图中每页的项目数"
     },
     "bannerHeight": {
-      "name": "Cover Height",
-      "desc": "The height for the cover of the note or space, default is 200"
+      "name": "封面高度",
+      "desc": "笔记或空间的封面高度，默认为 200"
     },
     "makeChar": {
-      "name": "Flow Menu Trigger",
-      "desc": "Character to open the Flow Menu"
+      "name": "流菜单触发器",
+      "desc": "打开流菜单的字符"
     },
     "mobileMakeBar": {
-      "name": "Flow Styler (Mobile)",
-      "desc": "Replaces the mobile toolbar"
+      "name": "流样式器（移动设备）",
+      "desc": "替换移动工具栏"
     },
     "editorMarkSans": {
-      "name": "Mark Sans 🧪",
-      "desc": "Use the editor without Markdown."
+      "name": "无 Markdown 🧪",
+      "desc": "使用不带 Markdown 的编辑器。"
     },
     "editorMakePlaceholder": {
-      "name": "Flow Menu Hint Text",
-      "desc": "Show a hint text on how to open the Flow Menu Shortcut"
+      "name": "流菜单提示文本",
+      "desc": "显示如何打开流菜单快捷键的提示文本"
     },
     "blinkEnabled": {
       "name": "Blink",
-      "desc": "A faster way to search and edit your notes"
+      "desc": "搜索和编辑笔记的更快方式"
     },
     "editorMakeMenu": {
-      "name": "Flow Menu",
-      "desc": "Open the Flow menu to quickly add content"
+      "name": "流菜单",
+      "desc": "打开流菜单以快速添加内容"
     },
     "editorMakeMenuTrigger": {
-      "name": "Flow Menu Shortcut",
-      "desc": "Trigger key to use flow menu"
+      "name": "流菜单快捷键",
+      "desc": "使用流菜单的触发键"
     },
     "editorFlowReplace": {
-      "name": "Flow Block",
-      "desc": "Open your internal links or toggle your embeds in the flow block."
+      "name": "流块",
+      "desc": "在流块中打开内部链接或切换嵌入内容。"
     },
     "editorFlowStyle": {
-      "name": "Flow Block Style",
-      "desc": "Select a theme for your flow block",
-      "seamless": "Seamless",
-      "minimal": "Minimal"
+      "name": "流块样式",
+      "desc": "为您的流块选择主题",
+      "seamless": "无缝",
+      "minimal": "极简"
     },
     "contextCreateUseModal": {
-      "name": "Use Modal for Creating Items",
-      "desc": "Use a modal to create new items in contexts"
+      "name": "使用模态框创建项目",
+      "desc": "使用模态框在上下文中创建新项目"
     },
     "changeTheSyncSettingsToIncludeUnsupportedFileTypes": {
-      "name": "Change the sync settings to include unsupported file types",
-      "desc": "Change the sync settings to include unsupported file types"
+      "name": "更改同步设置以包含不支持的文件类型",
+      "desc": "更改同步设置以包含不支持的文件类型"
     },
     "noVisualizationConfigured": {
-      "name": "No visualization configured",
-      "desc": "No visualization configured"
+      "name": "未配置可视化",
+      "desc": "未配置可视化"
     },
     "maxStepsReachedYouCanChangeThisInSettings": {
-      "name": "Max steps reached, you can change this in settings.",
-      "desc": "Max steps reached, you can change this in settings."
+      "name": "已达到最大步骤数，您可以在设置中更改此设置。",
+      "desc": "已达到最大步骤数，您可以在设置中更改此设置。"
     }
   },
   "colors": {
