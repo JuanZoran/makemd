@@ -1,3 +1,4 @@
+
 {
   "compilerOptions": {
     "jsx": "react",
@@ -14,6 +15,7 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "removeComments": true,
+    "noEmit": true,
     "allowSyntheticDefaultImports": true,
     "lib": ["dom", "es5", "scripthost", "es2020", "es2022"],
     "skipLibCheck": true,
@@ -30,6 +32,9 @@
     "src/core/utils/libs/detectElementResize.js",
     "src/core/utils/sqljs.ts",
     "src/core/react/components/UI/Menus/menu/Suggestions.jsx",
-    "src/core/utils/uuid.js"
-, "src/adapters/text/removemd.js", "src/core/utils/color/gradientParser.js", "src/core/react/components/SpaceEditor/ts.worker.js"  ]
+    "src/core/utils/uuid.js",
+    "src/adapters/text/removemd.js",
+    "src/core/utils/color/gradientParser.js",
+    "src/core/react/components/SpaceEditor/ts.worker.js"
+  ]
 }
